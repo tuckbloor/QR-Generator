@@ -6,6 +6,8 @@ A free, easy-to-use QR code generator for Windows, developed in C# using Windows
 
 Create personalised QR codes, customise their appearance, add text labels and save high-quality PNG images.
 
+![QR Generator Application Screenshot](Screenshot%202026-10-10%20105603.png)
+
 **[Download QR Generator v1.0.0](https://github.com/tuckbloor/QR-Generator/releases/latest)**
 
 ---
